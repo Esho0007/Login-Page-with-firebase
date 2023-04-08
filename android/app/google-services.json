@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072627959734",
+    "project_id": "form-4cc0d",
+    "storage_bucket": "form-4cc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072627959734:android:c52b4aed2daeeca5412317",
+        "android_client_info": {
+          "package_name": "com.example.form_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072627959734-gf6kta05d3ha07fkrld86uscmcfh2ajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwSgef1E-hTeK8lSmzyHaD9sBjQL2MFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072627959734-gf6kta05d3ha07fkrld86uscmcfh2ajj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
